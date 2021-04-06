@@ -14,21 +14,27 @@ The data to train and evaluate contains 12 columns about the passengers on board
 
 During this work, I used data analysis to understand how the data was composed and distributed. And I also worked with a few statistical concepts to generate insights to improve the goal.
 
-For the data analysis, I analyzed and visualized the correlation between variables
-
 ### Correlation matrix
+
+For the data analysis, I analyzed and visualized the correlation between variables
 
 ![Alt text](./Screenshots/corr.png?raw=true "Corr")
 
 ### "Fare" Boxplot
 
+I verified if the higher points made sense.
+
 ![Alt text](./Screenshots/box_fare.png?raw=true "box_fare")
 
 ### Age Histogram
 
+I looked at the distribuition to sse the better way to complete the age data.
+
 ![Alt text](./Screenshots/hist_age.png?raw=true "hist_age")
 
 Some metrics such as standard deviation, min, max, and quartiles of the variable Age and Fare also were evaluated.
+
+Another analysis and explanations were made and can be found on my jupyter notebook.
 
 For the machine learnings, I ran the following models:
 
